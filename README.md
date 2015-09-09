@@ -30,5 +30,5 @@ println("d state is " * string(d.state))
 ```
 ```bash
 Real[6]
-e state is Real[6]
+d state is Real[6]
 ```
