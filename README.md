@@ -1,2 +1,4 @@
 # Kwesi
-Computational graph engine for machine learning
+Computational graph library for machine learning in Julia
+
+
