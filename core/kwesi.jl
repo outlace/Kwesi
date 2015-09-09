@@ -1,4 +1,5 @@
 module Kwesi
+export *, VarNode, OpsNode, runNode
 #need to define new method of * to handle single element arrays of Real
 function *(x::Array{Real}, y::Array{Real})
   x2 = (x[1])::Real
