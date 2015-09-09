@@ -1,11 +1,11 @@
-# Kwesi
+# Kwesi v.0.1 alpha
 Computational graph library for machine learning in Julia
 
 
 #### Usage
 
 Here's an implementation of this computational graph
-![Computational graph](http://colah.github.io/posts/2015-08-Backprop/img/tree-eval.png =400x231)
+[[http://colah.github.io/posts/2015-08-Backprop/img/tree-eval.png|width=400px]]
 
 ```Julia
 using Kwesi
