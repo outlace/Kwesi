@@ -28,3 +28,7 @@ e = OpsNode(multxy, [0], [c,d])
 println(runNode(e))
 println("d state is " * string(d.state))
 ```
+```bash
+Real[6]
+e state is Real[6]
+```
