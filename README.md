@@ -4,7 +4,7 @@ Computational graph library for machine learning in Julia
 
 #### Usage
 
-Here's an implementation of this computational graph
+Here's an implementation of this computational graph (<a href="http://colah.github.io/posts/2015-08-Backprop/">source</a>)
 <img src="http://colah.github.io/posts/2015-08-Backprop/img/tree-eval.png" width="400px" />
 
 ```Julia
