@@ -5,14 +5,11 @@ Computational graph library for machine learning in Julia
 #### Usage
 
 Here's an implementation of this computational graph
-![Computational graph](http://colah.github.io/posts/2015-08-Backprop/img/tree-eval.png)
+![Computational graph](http://colah.github.io/posts/2015-08-Backprop/img/tree-eval.png =400x231)
 
 ```Julia
 using Kwesi
 
-function multb(b)
-  5*b
-end
 function addone(b)
   b + 1
 end
