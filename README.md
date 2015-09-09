@@ -26,7 +26,7 @@ c = OpsNode(addxy, [0], [a,b])
 d = OpsNode(addone, [0], [b])
 e = OpsNode(multxy, [0], [c,d])
 println(runNode(e))
-println("e state is " * string(d.state))
+println("e state is " * string(e.state))
 ```
 ```bash
 Real[6]
